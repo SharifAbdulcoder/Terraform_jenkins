@@ -3,5 +3,4 @@ variable "region" {
 }
 
 variable "sshkey" {
-  default = "jenkins"
 }
